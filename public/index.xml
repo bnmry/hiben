@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hi Ben Murray | Digital Strategy</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Hi Ben Murray | Digital Strategy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Nov 2017 19:16:36 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Mon, 27 Nov 2017 19:16:36 -0500</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>Hi there. This is my first post on this website. And I&amp;rsquo;m writing to better understand how the templating system works.
+Thanks! Perhaps?</description>
+    </item>
+    
+  </channel>
+</rss>

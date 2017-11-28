@@ -1,0 +1,41 @@
+<div class="show-sm">
+    <div id="nav-toggle-box">
+      <div id="nav-toggle-brand">
+        <!-- <a href="/">Ben Murray</a> -->
+      </div><a data-component="toggleme" data-target="#top" href="#" id="nav-toggle"><i class="kube-menu"></i></a>
+    </div>
+  </div>
+  <div class="hide-sm" id="top">
+    <div id="top-brand">
+      <a href="/" title="home"><img width="40px" src="http://www.benmurray.us/assets/images/brm-stamp@2x.png"></a>
+    </div>
+    <nav id="top-nav-main">
+      <ul>
+       {{ $currentPage := . }}
+       {{ range .Site.Menus.main }}
+    <li><a href="{{ .URL }}" {{if  $currentPage.IsMenuCurrent "main" . }} class="active"{{end}}>{{ .Name }}</a></li>
+    {{end}}
+      </ul>
+    </nav>
+    <nav id="top-nav-main">
+      <ul>
+        <li>
+          <a href="/about/">About</a>
+        </li>
+        <li>
+          <a href="http://hi.benmurray.us">Moments</a>
+        </li>
+        <li>
+          <a href="http://photos.benmurray.us">Photos</a>
+        </li>
+      </ul>
+    </nav>
+    <nav id="top-nav-extra">
+      <ul>
+        <li>
+          <a href="#" >Get in touch</a>
+        </li>
+      </ul>
+    </nav>
+
+  </div>
