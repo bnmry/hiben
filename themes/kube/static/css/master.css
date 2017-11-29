@@ -761,10 +761,10 @@ body.page-account #hero {
 #posts {
   list-style: none;
   margin: auto;
-  margin-top: 48px;
+  margin-top: 10px;
   margin-bottom: 128px;
   max-width: 680px;
-  text-align: center; }
+  text-align: left; }
 
 #posts li {
   margin-bottom: 40px; }
