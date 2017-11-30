@@ -13,4 +13,4 @@ Prior to joining BSD, Ben led digital advocacy at a prominent lobbying and publi
 
 Ben is a graduate of the London School of Economics and American University. He lives in Brooklyn, is an occasional triathlete, and photographer.
   
-<center><a class="button round outline" href="#">Connect on LinkedIn</a></center>
+<center><a class="button round outline" href="http://www.linkedin.com/in/benmurray" target="_blank">LinkedIn</a></center>
