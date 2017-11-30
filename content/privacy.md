@@ -49,7 +49,7 @@ This website contains links to other sites. Please be aware that we are not resp
 BRM secures your personal information from unauthorized access, use, or disclosure. BRM uses the following methods for this purpose: 
 
 - SSL Protocol
- 
+
 When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Sockets Layer (SSL) protocol. 
   
 We strive to take appropriate security measures to protect against unauthorized access to or alteration of your personal information. Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100% secure. As a result, while we strive to protect your personal information, you acknowledge that: (a) there are security and privacy limitations inherent to the Internet which are beyond our control; and (b) security, integrity, and privacy of any and all information and data exchanged between you and us through this Site cannot be guaranteed. 
@@ -69,12 +69,12 @@ We may store your data on servers provided by third party hosting vendors with w
 BRM reserves the right to change this Privacy Policy from time to time. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account, by placing a prominent notice on our site, and/or by updating any privacy information on this page. Your continued use of the Site and/or Services available through this Site after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by that Policy. 
   
 ### Contact Information 
-BRM welcomes your questions or comments regarding this Statement of Privacy. If you believe that BRM has not adhered to this Statement, please contact BRM at: 
-  
+We welcome your questions or comments regarding this Statement of Privacy. If you believe that we have not adhered to this Statement, please contact us at: 
+
 BRM, LLC
-Brooklyn, New York 
-  
-Email Address: 
+Brooklyn, New York
+
+Email Address:
 privacy@hiben.co
-  
+
 Effective as of November 29, 2017 
