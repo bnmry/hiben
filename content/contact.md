@@ -8,7 +8,7 @@ slug: "contact"
 
 <p>If you have a question, an idea, or something you'd like to work on together, please let me know. Or, give me a shout at <a href="mailto:say@hiben.co">say@hiben.co</a></p>
 
-<form method="post" action="https://formspree.io/ben@benmurray.us" class="form">
+<form method="post" action="/thanks" data-netlify="true" name="Contact" class="form">
     <div class="row gutters">
         <div class="col col-6">
             <div class="form-item" >
