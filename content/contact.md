@@ -8,7 +8,7 @@ slug: "contact"
 
 <p>If you have a question, an idea, or something you'd like to work on together, please let me know. Or, give me a shout at <a href="mailto:say@hiben.co">say@hiben.co</a></p>
 
-<form method="post" action="/thanks" data-netlify="true" name="Contact" class="form">
+<form method="post" action="/thanks" data-netlify="true" netlify-honeypot="bot-field" name="Contact" class="form">
     <div class="row gutters">
         <div class="col col-6">
             <div class="form-item" >
@@ -42,10 +42,7 @@ slug: "contact"
 
     <div class="form-item">
         <button>Send</button>
-        <button class="button secondary outline">Cancel</button>
     </div>
-
-    <input type="hidden" name="_next" value="/thanks" />
-    <input type="text" name="_gotcha" style="display:none" />
+    <input type="text" name="bot-field" style="display:none" />
 
 </form>
