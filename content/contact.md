@@ -12,13 +12,13 @@ slug: "contact"
     <div class="row gutters">
         <div class="col col-6">
             <div class="form-item" >
-                <input type="name" name="firstname" placeholder="First name">
+                <input type="name" name="firstname" placeholder="First name*" required >
             </div>
         </div>
 
         <div class="col col-6">
             <div class="form-item">
-                <input type="name" name="lastname" placeholder="Last name">
+                <input type="name" name="lastname" placeholder="Last name*" required>
             </div>
         </div>
     </div>
@@ -26,7 +26,7 @@ slug: "contact"
     <div class="row gutters">
         <div class="col col-6">
             <div class="form-item">
-                <input type="email" name="_replyto" placeholder="Email">
+                <input type="email" name="_replyto" placeholder="Email*" required>
             </div>
         </div>
         <div class="col col-6">
@@ -37,12 +37,13 @@ slug: "contact"
     </div>
 
     <div class="form-item">
-        <textarea rows="6" name="message" placeholder="Message"></textarea>
+        <textarea rows="6" name="message" placeholder="Message*" required></textarea>
     </div>
 
     <div class="form-item">
         <button>Send</button>
     </div>
+    
     <input type="text" name="bot-field" style="display:none" />
 
 </form>
