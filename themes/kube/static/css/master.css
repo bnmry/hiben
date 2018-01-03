@@ -95,8 +95,8 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
     margin: 0; }
   #top #top-nav-main {
-    padding-left: 52px;
-    border-left: 1px solid rgba(0, 0, 0, 0.15); }
+    padding-left: 0px;
+    /*border-left: 1px solid rgba(0, 0, 0, 0.15);*/ }
     #top #top-nav-main li {
       font-size: 16px;
       font-weight: 500;
